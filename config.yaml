@@ -1,0 +1,10 @@
+network:
+  port: 8000
+  max_peers: 50
+
+consensus:
+  staking_minimum: 1000
+  block_time_seconds: 2
+
+logging:
+  level: info
