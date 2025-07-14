@@ -1,4 +1,4 @@
-# Lythium QuantumChain
+# Lythium QuantumChain - em estudo
 
 # Visão Geral
 
